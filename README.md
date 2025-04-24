@@ -4,7 +4,11 @@ Hi 👋🏻 I'm an independent cloud architect and [software alchemist]([url](ht
 
 I help build, operate, and manage software systems. I wrote my first line of code in 1989 and have over 25 years' experience shipping to production.
 
-Want some help on a short- or long-term project? I'm available! My clients range from single persons to Fortune 50 enterprises. Check out my site for more: https://www.redwoodconsulting.io/
+Want some help on a project? I'm available! My engagements last between a few days to long-term collaboration.
+
+My clients range from single persons to Fortune 50 enterprises. Check out my site: https://www.redwoodconsulting.io/
+
+-------
 
 Some projects outside my client work:
 
@@ -18,4 +22,4 @@ Some projects outside my client work:
 
   I'm writing a tool for [You Need A Budget](https://www.ynab.com/) to help my personal workflow. I want to mark shared transactions as split to a certain category, but it's rather a hassle to do it by hand (especially on mobile devices). I don't intend to truly productionize this but might do. It's a web app written in Kotlin transpiled to Javascript, because, why not?
 
-I'm a [Google Cloud Expert](https://developers.google.com/profile/u/dchaley), and hold a 2nd degree black belt in Seido Karate.
+I'm a [Google Cloud Expert](https://developers.google.com/profile/u/dchaley). I hold a 2nd degree black belt in Seido Karate and teach adult classes.
